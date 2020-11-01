@@ -9,7 +9,6 @@ local.properties
 *.iml
 .idea
 *~
-*/keystore
 */signature.asc
 */*.p12
 */play-api-key.json
